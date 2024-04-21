@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Merhaba 👋
+Ağrı İbrahim Çeçen Üniversitesi Bilgisayar programcılığı bölümü mezunuyum 
+Hedefim HTML, CSS VE PHP alanında proje geliştirici olmaktır.
+Özellikle Php ve bu alanda çalışmalar yapmaktayim 🖥
 <!--
 **resitakinn/resitakinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
