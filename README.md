@@ -1,4 +1,4 @@
-### Merhaba 👋
+# Merhaba 👋 Ben Mehmet Reşit 
 Ağrı İbrahim Çeçen Üniversitesi Bilgisayar programcılığı bölümü mezunuyum 
 Hedefim HTML, CSS VE PHP alanında proje geliştirici olmaktır.
 Özellikle Php ve bu alanda çalışmalar yapmaktayim 🖥
